@@ -2,7 +2,7 @@
 
 Welcome to Auto-piiza! Our state-of-the-art pizza station combines technology and precision control to streamline the pizza-making process, ensuring personalized and delicious pizzas that align perfectly with customer preferences.
 
-<img src="https://github.com/Shahd-Bilal0/HardwareProject/blob/main/logo.PNG" alt="Project Image" width="500" height="500">
+![logo](https://github.com/Shahd-Bilal0/HardwareProject/assets/123820302/b7513917-8b2b-45b1-9f5c-5d660a07399a)
 
 ## Key Features
 
