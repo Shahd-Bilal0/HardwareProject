@@ -16,14 +16,10 @@ Our innovative system offers a seamless ordering experience. Customers can custo
 
 With features like an efficient conveyor system, a smart ingredient dispenser, and a high-temperature oven chamber, we guarantee consistently delicious results.
 
-## Acknowledgments
-
-This project wouldn't have been possible without the hard work and dedication of our team, and we're incredibly proud of what we've achieved.
-
 ## Demo
 
-Watch the demo [here](https://lnkd.in/diCy5rtg).
+Watch the demo [here](https://drive.google.com/file/d/1iXFX3p3i5--T2f1NEpCxyX1a1cU5KI-W/view?usp=sharing).
 
 ## Report
 
-Read the detailed report [here](https://lnkd.in/d5d3emtE).
+Read the detailed report [here](https://drive.google.com/file/d/1VeUYVxX3UOjCg06f9W2wZBOVKTU_1MU3/view?usp=sharing).
