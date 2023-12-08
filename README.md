@@ -4,11 +4,11 @@ Welcome to Auto-piiza! Our state-of-the-art pizza station combines technology an
 
 ## Key Features
 
-- ✅ User-Friendly Touchscreen Interface for Customization
-- ✅ Real-time Ingredient Level Monitoring
-- ✅ Efficient Conveyor System
-- ✅ Smart Ingredients Dispenser
-- ✅ High-Temperature Oven Chamber
+-  User-Friendly Touchscreen Interface for Customization
+-  Real-time Ingredient Level Monitoring
+-  Efficient Conveyor System
+-  Smart Ingredients Dispenser
+-  High-Temperature Oven Chamber
 
 ## Seamless Ordering Experience
 
